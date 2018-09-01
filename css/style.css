@@ -60,11 +60,19 @@ br {
   padding: 35px 20px;
 }
 
-.mcard-header{
+.card-header1{
   padding:.75rem 1.25rem;
   margin-bottom:0;
   background-color:#fff;
   color:#54a0ff;
+  border-bottom:1px solid #0097e6
+}
+
+.card-header2{
+  padding:.75rem 1.25rem;
+  margin-bottom:0;
+  background-color:#54a0ff;
+  color:#FFF;
   border-bottom:1px solid #0097e6
 }
 
